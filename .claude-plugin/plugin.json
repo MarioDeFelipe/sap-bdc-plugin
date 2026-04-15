@@ -1,0 +1,25 @@
+{
+  "name": "sap-bdc",
+  "version": "0.4.0",
+  "description": "SAP Business Data Cloud (BDC) plugin for Claude: 7 human-facing skills (onboarding, core admin, governance/catalog, connect/sharing, intelligent apps, SAP Databricks, SAP-Note troubleshooter) paired with a machine-facing MCP server that exposes 14 tools for Delta Sharing, CSN schema management, provisioning, validation, and diagnostics. Curated against 22 SAP Notes.",
+  "author": {
+    "name": "Mario de Felipe",
+    "email": "mario.defelipe@gmail.com"
+  },
+  "homepage": "https://github.com/MarioDeFelipe/sap-bdc-mcp-server",
+  "repository": "https://github.com/MarioDeFelipe/sap-bdc-mcp-server",
+  "license": "MIT",
+  "keywords": [
+    "sap",
+    "bdc",
+    "business-data-cloud",
+    "databricks",
+    "sap-databricks",
+    "delta-sharing",
+    "bdc-connect",
+    "datasphere",
+    "sac",
+    "mcp",
+    "troubleshooting"
+  ]
+}
